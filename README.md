@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ `Consultant <-- Web Backend Engineer <-- SRE <-- Infra Engineer`
+ 
+🔭 I’m currently working on openshift
+
+
 <!--
 **ptux/ptux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
