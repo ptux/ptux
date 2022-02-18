@@ -4,15 +4,6 @@
  
 🔭 I’m currently working on openshift
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
-
-
 <!--
 **ptux/ptux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
